@@ -309,6 +309,7 @@
 "Assets/Scripts/Lose.cs"
 "Assets/Scripts/Menu.cs"
 "Assets/Scripts/Move.cs"
+"Assets/Scripts/Tiempo.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"

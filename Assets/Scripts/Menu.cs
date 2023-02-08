@@ -21,4 +21,7 @@ public class Menu : MonoBehaviour
     public void button_click(){
         SceneManager.LoadScene(1);
     }
+    public void Exit(){
+        Application.Quit();
+    }
 }
