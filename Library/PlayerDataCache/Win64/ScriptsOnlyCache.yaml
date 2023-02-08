@@ -15,16 +15,6 @@ ScriptsOnlyBuild:
     - TMPro.TMP_SpriteAsset
     - TMPro.TMP_StyleSheet
     - TMPro.TextMeshProUGUI
-    Unity.Timeline.Editor.dll:
-    - TimelinePreferences
-    - TimelineProjectSettings
-    UnityEditor.Graphs.dll:
-    - UnityEditor.Graphs.AnimationBlendTree.Graph
-    - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
-    - UnityEditor.Graphs.AnimationStateMachine.Graph
-    - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -118,15 +108,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4540}
     - Class: 114
-      Script: {instanceID: 5318}
+      Script: {instanceID: 5320}
     - Class: 114
-      Script: {instanceID: 5934}
+      Script: {instanceID: 5936}
     - Class: 114
-      Script: {instanceID: 6090}
+      Script: {instanceID: 6092}
     - Class: 114
-      Script: {instanceID: 6436}
+      Script: {instanceID: 6438}
     - Class: 114
-      Script: {instanceID: 51576}
+      Script: {instanceID: 24492}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -187,21 +177,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 2880}
     - Class: 114
-      Script: {instanceID: 5318}
+      Script: {instanceID: 4666}
     - Class: 114
-      Script: {instanceID: 5934}
+      Script: {instanceID: 5320}
     - Class: 114
-      Script: {instanceID: 6090}
+      Script: {instanceID: 5936}
     - Class: 114
-      Script: {instanceID: 6436}
+      Script: {instanceID: 6092}
     - Class: 114
-      Script: {instanceID: 6628}
+      Script: {instanceID: 6438}
     - Class: 114
-      Script: {instanceID: 7626}
+      Script: {instanceID: 6630}
     - Class: 114
-      Script: {instanceID: 8094}
+      Script: {instanceID: 7628}
     - Class: 114
-      Script: {instanceID: 39456}
+      Script: {instanceID: 8096}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -719,6 +709,12 @@ ScriptsOnlyBuild:
     className: TextConsoleSimulator
   - hash:
       serializedVersion: 2
+      Hash: 133d225561b0cd70db3504b2340bb643
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Tiempo
+  - hash:
+      serializedVersion: 2
       Hash: 11319334e5365797f8056694f9b5dae4
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro.Examples
@@ -1227,12 +1223,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 133d225561b0cd70db3504b2340bb643
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Tiempo
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
